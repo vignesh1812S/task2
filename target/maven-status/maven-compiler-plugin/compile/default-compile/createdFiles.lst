@@ -1,0 +1,6 @@
+com\example\taskapi\model\Task.class
+com\example\taskapi\model\TaskExecution.class
+com\example\taskapi\MainApplication.class
+com\example\taskapi\controller\TaskController.class
+com\example\taskapi\repository\TaskRepository.class
+com\example\taskapi\CorsConfig.class
