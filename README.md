@@ -39,8 +39,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Screenshots
+list tasks
+![2](https://github.com/user-attachments/assets/dcf28b49-19f1-44c7-aef7-b1f27dd1180f)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+add tasks
+![1](https://github.com/user-attachments/assets/9f9cbe3d-ceca-4066-9149-39e6c5479e0e)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+
